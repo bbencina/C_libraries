@@ -1,0 +1,46 @@
+#ifndef MATH_SCI_CONSTANTS
+
+#define MATH_SCI_CONSTANTS
+
+#ifndef PI
+#define PI 3.14159
+#endif
+
+#ifndef EULER_NUM
+#define EULER_NUM 2.71828
+#endif
+
+#ifndef PYTHAGORA_CONST
+#define PYTHAGORA_CONST 1.41421356237
+#endif
+
+#ifndef FEIGENBAUM_CONSTS
+#define FEIGENBAUM_1 2.5029
+#define FEIGENBAUM_2 4.6692
+#endif
+
+#ifndef APERY_CONST
+#define APETY_CONST 1.2020569
+#endif
+
+#ifndef GOLDEN_RATIO
+#define GOLDEN_RATIO 1.61803398874
+#endif
+
+#ifndef EULER_MASCHERONI_CONST
+#define EULER_MASCHERONI_CONST 0.57721
+#endif
+
+#ifndef CONWAY_CONST
+#define CONWAY_CONST 1.30357
+#endif
+
+#ifndef KHINCHIN_CONST
+#define KHINCHIN_CONST 2.6854520010
+#endif
+
+#ifndef GLAISHER_KINKELIN_CONST
+#define GLAISHER_KINKELIN_CONST 1.2824271291
+#endif
+
+#endif
